@@ -2,7 +2,9 @@
 
 **Course:** EEE 460 - Optoelectronics Laboratory  
 **Domains:** Optoelectronics, Hardware-Software Co-Design, Optical Spectroscopy, GUI Development  
-**For detailed result read the report**  
+
+
+**For detailed result, read the report**  
 [![Read Full PDF Report](https://img.shields.io/badge/📄_Read_Full_Report-PDF-blue)](assets/report.pdf)
 [![Watch Calibration Demo](https://img.shields.io/badge/📺_Calibration_Demo-YouTube-red)](https://www.youtube.com/watch?v=04mUHqsG0M)
 [![Watch Measurement Demo](https://img.shields.io/badge/📺_Measurement_Demo-YouTube-red)](https://www.youtube.com/watch?v=Q4ZG11ZzpH8)
