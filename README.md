@@ -1,4 +1,4 @@
-# Smart Colorimeter for Automated Concentration Analysis & Chemical Identification
+# Automated Chemical Identification via Smart Colorimeter
 
 **Course:** EEE 460 - Optoelectronics Laboratory  
 **Domains:** Optoelectronics, Hardware-Software Co-Design, Optical Spectroscopy, GUI Development  
